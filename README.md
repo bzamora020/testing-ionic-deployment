@@ -11,15 +11,15 @@ After installing node dependencies, run:
 
 The ionic app should be host on localhost:8100
 
-*Photos of what the app should look like: *
+#Photos of what the app should look like: *
 
 <img src="https://i.ibb.co/74fTRvD/Screen-Shot-2021-07-06-at-12-04-16-AM.png" width="250" height="600">|
 <img src="https://i.ibb.co/fSS5RfG/Screen-Shot-2021-07-06-at-12-04-29-AM.png" width="250" height="600">|
 <img src="https://i.ibb.co/k4F6WMr/Screen-Shot-2021-07-06-at-12-36-19-AM.png" width="250" height="600">
 
-* Challenge Requirements: * 
+#Challenge Requirements:
 
-Generate tabs using the tabs template. You must have the following tabs
+##Generate tabs using the tabs template. You must have the following tabs
 
   - Home
       - Add info about yourself - picture, age, school, bio
