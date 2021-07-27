@@ -10,8 +10,8 @@ export class Tab3Page {
   // friendsList : any[] = friendsObj;
   constructor() {
     this.friendsList = friendsObj;
-    console.log(friendsObj);
-    console.log(this.friendsList[0].name);
+    // console.log(friendsObj);
+    // console.log(this.friendsList[0].name);
   }
 
 }

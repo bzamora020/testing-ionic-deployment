@@ -6,10 +6,9 @@ import { Component, ElementRef } from '@angular/core';
   styleUrls: ['tab1.page.scss']
 })
 export class Tab1Page {
-  name: "elmer";
   infoObj: any = {
-    name: "Elmer Vasquez", 
-    school: "UC SANTA CRUZ, Junior", 
+    name: "Bryan Zamora", 
+    school: "UC SANTA BARBARA, Junior", 
     major: "Computer Science", 
     bio: "I enjoy programming, anime, drawing, hanging with friends and family, and I love listening to chill music."
   }
